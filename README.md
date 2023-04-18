@@ -1,3 +1,4 @@
+
 ## Linkedin CV Generator Documentation
 
 ### Introduction
@@ -27,15 +28,16 @@ Before you can run this project, make sure you have the following installed:
 - Download the appropriate version of ChromeDriver that matches the installed version of Google Chrome.
 
 ### Usage
-* Update the linkedin_login.json file with the user's LinkedIn login credentials.
-* Modify the following variables in the linkedin_cv_generator.py as required:
+* Update the LinkedIn_login.json file with the user's LinkedIn login credentials.
+* Modify the following variables in the LinkedIn_cv_generator.py as required:
 * chrome_path - the path to the installed Google Chrome executable
 * driver_path - the path to the installed ChromeDriver executable
 * job_search_term - the search term used to find relevant work experience
-* Run the linkedin_cv_generator.py file using Python.
+* Run the LinkedIn_cv_generator.py file using Python.
 
 ### Future Improvements
-* Add support for more web browsers.
-* Add unit tests to ensure consistent performance.
-* Expand functionality to include exporting CV in multiple file formats.
-* Issue https://github.com/KazeroG/Linkedin-CV-Generator/issues/1
+
+ - [ ] Add support for more web browsers.
+ - [ ] Add unit tests to ensure consistent performance. Expand
+ - [ ] functionality to include exporting CV in multiple file formats.
+ - [ ] Issue https://github.com/KazeroG/Linkedin-CV-Generator/issues/1
