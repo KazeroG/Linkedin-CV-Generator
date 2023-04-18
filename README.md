@@ -38,4 +38,4 @@ Before you can run this project, make sure you have the following installed:
 * Add support for more web browsers.
 * Add unit tests to ensure consistent performance.
 * Expand functionality to include exporting CV in multiple file formats.
-* Issue @1
+* Issue https://github.com/KazeroG/Linkedin-CV-Generator/issues/1
