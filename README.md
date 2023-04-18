@@ -18,11 +18,11 @@ Before you can run this project, make sure you have the following installed:
 ### Installation
 - First, clone this repository by running the following command:
 
-git clone https://github.com/[USERNAME]/[REPO].git
+`git clone https://github.com/[USERNAME]/[REPO].git`
 
 - Install project dependencies by running the following command:
 
-pip install selenium beautifulsoup4 docx
+`pip install selenium beautifulsoup4 docx`
 
 - Download the appropriate version of ChromeDriver that matches the installed version of Google Chrome.
 
@@ -38,3 +38,4 @@ pip install selenium beautifulsoup4 docx
 * Add support for more web browsers.
 * Add unit tests to ensure consistent performance.
 * Expand functionality to include exporting CV in multiple file formats.
+* Issue #1
